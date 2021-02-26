@@ -1,0 +1,137 @@
+.form-register {
+    margin-top: 20px;
+    width: 50%;
+    height: auto 0;
+    transform: translateX(50%);
+    padding-bottom: 50px;
+    border: 1px solid;
+    margin-bottom: 50px;
+}
+
+.form-register .title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.form-group {
+    padding-top: 35px;
+}
+
+.footer {
+    width: 100%;
+    padding: 20px 0;
+    background-color: #383835;
+    color: white;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.dropdown-menu {
+    min-width: 110px;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a:hover {
+    text-decoration: none;
+}
+
+.text-danger {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    color: red;
+}
+
+.is-invalid {
+    border: 1px solid red;
+}
+
+.profile-menu {
+    background: antiquewhite;
+}
+
+.profile-menu li {
+    padding: 5px 15px;
+    list-style: none;
+}
+
+.profile-menu li a {
+    text-decoration: none;
+}
+
+.profile-menu li:hover {
+    background: rgb(163, 172, 199);
+    color: white;
+}
+
+.profile-avatar {
+    cursor: pointer;
+}
+
+.alert.alert-success.alert-dismissible {
+    text-align: center;
+    margin: 15px 0;
+    padding: 15px 30px;
+    padding-bottom: 0;
+}
+
+.col-lg-10.col-md-10.col-sm-10.col-xs-10 {
+    padding-bottom: 15px;
+}
+
+.btn-redirect-to-checkout {
+    background: green;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 16px;
+    float: right;
+}
+
+.btn-redirect-back {
+    background: cornflowerblue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 16px;
+    float: left;
+}
+
+.btn-redirect-to-checkout:hover {
+    color: white;
+}
+
+.navbar.footer {
+    margin-top: 15px;
+}
+
+.btn-checkout {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.form-control.txt-cart-quantity {
+    width: 10%;
+    text-align: center;
+    margin: 0 10px;
+}
+
+.cart-quantity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table th, td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-redirect-to-checkout {
+    float: right;
+}
